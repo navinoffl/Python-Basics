@@ -1,0 +1,11 @@
+#5For Loop
+
+n = 4
+for i in range(0, n):
+    print(i)
+
+OUTPUT
+0
+1
+2
+3
