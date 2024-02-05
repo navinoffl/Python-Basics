@@ -1,3 +1,6 @@
+#1_IF_and_Else_Statement
+
+
 num = int(input("enter the number:"))
 if num%2 == 0:
   print("The Given number is an even number")
@@ -5,5 +8,5 @@ else:
   print("The Given number is an odd number")
 
 #output
-#enter the number: 10
-#The Given number is an even number
+#enterthenumber:10
+#TheGivennumberisanevennumber
