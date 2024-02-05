@@ -1,0 +1,9 @@
+Conditional OR
+EXAMPLE:1
+birthday = False
+hungry = True
+if birthday is True or hungry is True:
+    print("I think I'll have some cake")
+
+OUTPUT
+I think I'll have some cake
