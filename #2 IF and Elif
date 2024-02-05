@@ -1,0 +1,14 @@
+
+#2 IF and Elif
+guess = int(input("enter the input"))
+
+if guess == 10:
+   print("Correct, the mystery number is 10")
+elif guess > 10:
+   print("You guessed too high, try again")
+elif guess < 10:
+   print("You guessed too low, try again")
+
+#OUTPUT:
+#enter the input: 10
+#Correct, the mystery number is 10
