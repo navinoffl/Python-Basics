@@ -1,0 +1,14 @@
+Conditional AND
+EXAMPLE:1
+ammo = 16
+max_ammo = 15
+reloading = True
+
+if ammo != max_ammo and reloading is True:
+   print("Cover me I'm reloading!")
+else:
+  print("I'll Fire!!!")
+
+
+OUTPUT
+Cover me I'm reloading!
