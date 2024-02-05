@@ -1,0 +1,23 @@
+#6.5Pass control statement
+message = "Hello World"
+
+for letter in message:
+    if letter == "o": pass
+    print(letter)
+
+print("\nI am the next statement after the loop")
+
+#OUTPUT:
+H
+e
+l
+l
+o
+ 
+W
+o
+r
+l
+d
+
+I am the next statement after the loop
