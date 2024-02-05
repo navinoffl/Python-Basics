@@ -1,4 +1,4 @@
-#1_IF_and_Else_Statement
+#1 IF and Else Statement
 
 
 num = int(input("enter the number:"))
@@ -8,5 +8,5 @@ else:
   print("The Given number is an odd number")
 
 #output
-#enterthenumber:10
-#TheGivennumberisanevennumber
+#enter then number:10
+#The Given number is an even number
