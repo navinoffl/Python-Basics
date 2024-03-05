@@ -1,10 +1,1 @@
-#factorial
 
-n=int(input('enter the number'))
-fact_input=int(input('enter the factorial input'))
- 
-for i in range(1, n+1):
-    fact = fact_input * i
- 
-
-print (f"the number is {n} fact num is {fact}")
